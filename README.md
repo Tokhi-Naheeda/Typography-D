@@ -1,21 +1,21 @@
 # Typography-Site
 
-In diesem Projekt habe ich die Grundlagen der Typografie angewendet, um eine ansprechende Webseite zu erstellen. Ich habe ein Markdown-Dokument mit typografischen Artikeln in eine gut strukturierte Webseite umgewandelt, wobei HTML und CSS verwendet wurden, um verschiedene Schriftarten, Layouts und Stile umzusetzen.
+In this project, I applied the basics of typography to create an appealing website. I converted a Markdown document with typographic articles into a well-structured website, using HTML and CSS to implement various fonts, layouts, and styles.
 
 ### Features
-- Umwandlung von Markdown-Inhalt in eine strukturierte und stilvolle Webseite.
-- Anwendung von Typografie-Prinzipien und CSS-Styling, um die Lesbarkeit und das Design zu optimieren.
-- Erstellung einer benutzerfreundlichen Navigation mit internen Links.
-- Gestaltung von Links in verschiedenen Zuständen (link, visited, active, hover).
+- Converting Markdown content into a structured and stylish webpage.
+- Applying typography principles and CSS styling to optimize readability and design.
+- Creating a user-friendly navigation with internal links.
+- Styling links in different states (link, visited, active, hover).
 
+### Example
 
-### Beispiel
-
-![Mockup der fertigen Webseite](img/mockup.gif) 
+![Mockup of the finished website](img/mockup.gif)
 
 ## Installation
 
-1. clone das Repository:
+1. Clone the repository:
 
    ```bash
    git clone <repository-url>
+
